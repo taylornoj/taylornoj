@@ -5,7 +5,7 @@
 - 📫 How to reach me: taylornoj@gmail.com
 - 😄 Pronouns: She/Her
 - 📄 You can view my resume here: https://resume.io/r/mMPy9dwPY
-- 🔉 Check out my Medium page 
+- 🔉 Check out my Medium page: https://medium.com/@taylornoj
 
 <!-- [![Taylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylornoj&theme=calm)](https://github.com/taylornoj/github-readme-stats) -->
 
