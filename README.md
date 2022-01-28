@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Taylor
 
-- 📚 I’m currently a Full Stack Web Dev student at Lighthouse Labs
+- 📚 I’m a Junior Full Stack Web Developer & recent graduate from Lighthouse Labs
 - 🔭 I'm looking for employment opportunities
 - 📫 How to reach me: https://www.linkedin.com/in/taylor-noj-a7317891/
 - 😄 Pronouns: She/Her
