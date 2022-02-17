@@ -2,8 +2,8 @@
 
 - 📚 I’m a Junior Full Stack Web Developer & recent graduate from Lighthouse Labs
 - 🔭 I'm looking for employment opportunities
-- 📫 How to reach me: https://www.linkedin.com/in/taylor-noj-a7317891/
 - 😄 Pronouns: She/Her
+- 📫 How to reach me: https://www.linkedin.com/in/taylor-noj-a7317891/
 - 📄 You can view my resume here: https://resume.io/r/mMPy9dwPY
 - 🔉 Check out my Medium page: https://medium.com/@taylornoj
 
