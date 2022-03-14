@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taylornoj&label=Profile%20views&color=0e75b6&style=flat" alt="taylornoj" /> </p>
 
-- 🌱 I’m currently doing the **100 Days of CSS Challenge**
+- 🌱 I’m currently learning about **Next.js**
 
 - 💻 Check out my portfolio [https://taylornoj.github.io/portfolio/](https://taylornoj.github.io/portfolio/)
 
