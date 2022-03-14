@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Taylor</h1>
-<h3 align="center">a full stack junior web developer</h3>
+<h3 align="center">full stack junior web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taylornoj&label=Profile%20views&color=0e75b6&style=flat" alt="taylornoj" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 💻 Check out my portfolio [https://taylornoj.github.io/portfolio/](https://taylornoj.github.io/portfolio/)
 
-- 📝 I regularly write articles on [https://medium.com/@taylornoj](https://medium.com/@taylornoj)
+- 📝 I write articles on [https://medium.com/@taylornoj](https://medium.com/@taylornoj)
 
 - 📫 How to reach me **taylornoj@gmail.com**
 
