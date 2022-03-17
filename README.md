@@ -11,7 +11,7 @@
 <div align="center">I have the most experience working with the PERN stack but am always seeking out new languages and frameworks! </div>  
   
 
-<div align="center">When I am not coding I going on hikes with my dog Ellie 😁</div>  
+<div align="center">When I am not coding, I'm most likely on a hike with my dog Ellie 😁</div>  
   
 
 <br/> 
