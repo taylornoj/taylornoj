@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">I'm Taylor, a junior full-stack developer  🚀</div>  
+### <div align="center">Hey! I'm Taylor, a junior full-stack developer  🚀</div>  
   
 
 <div align="center">I recently graduated from the Lighthouse Labs Web Development Bootcamp and am really excited to be starting an internship in May! 
