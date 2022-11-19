@@ -1,16 +1,19 @@
 
   
 
-### <div align="center">Hey! I'm Taylor, a junior full-stack developer  🚀</div>  
+### <div align="center">Hey! I'm Taylor, a full-stack Software Engineer 🚀</div>  
   
 
-<div align="center">I recently graduated from the Lighthouse Labs Web Development Bootcamp and am really excited to be starting an internship in May! 
-</div>  
-  
+<div align="center">After completing a web development bootcamp, I became an intern at Jobber.</div>  
 
-<div align="center">I have the most experience working with the PERN stack but am always seeking out new languages and frameworks! </div>  
+<div align="center">After eight months, I am now in the role of Software Engineer I 🎉</div>
   
+<br/>
+   
+<div align="center">This GitHub account is for personal projects. The GitHub account I use for work is here: https://github.com/taylorvnoj</div> 
 
+<br/>
+  
 <div align="center">When I am not coding, I'm most likely on a hike with my dog Ellie 😁</div>  
   
 
